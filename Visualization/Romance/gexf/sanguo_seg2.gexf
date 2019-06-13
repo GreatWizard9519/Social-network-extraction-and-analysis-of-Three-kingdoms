@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-03-13">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph mode="slice" defaultedgetype="directed" timerepresentation="timestamp" timestamp="2">
+    <attributes class="node" mode="static">
+      <attribute id="weight" title="weight" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Dong Zhuo" label="Dong Zhuo">
+        <attvalues>
+          <attvalue for="weight" value="204"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="303.207" y="39.70211"></viz:position>
+      </node>
+      <node id="Lu Bu" label="Lu Bu">
+        <attvalues>
+          <attvalue for="weight" value="144"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="312.38016" y="452.32144"></viz:position>
+      </node>
+      <node id="Yuan Shao" label="Yuan Shao">
+        <attvalues>
+          <attvalue for="weight" value="106"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-289.08975" y="-93.61042"></viz:position>
+      </node>
+      <node id="Cao Cao" label="Cao Cao">
+        <attvalues>
+          <attvalue for="weight" value="105"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="440.1605" y="-188.34062"></viz:position>
+      </node>
+      <node id="Sun Jian" label="Sun Jian">
+        <attvalues>
+          <attvalue for="weight" value="84"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="30.442184" y="-483.0454"></viz:position>
+      </node>
+      <node id="Liu Bei" label="Liu Bei">
+        <attvalues>
+          <attvalue for="weight" value="83"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-468.2869" y="431.83218"></viz:position>
+      </node>
+      <node id="Wang Yun" label="Wang Yun">
+        <attvalues>
+          <attvalue for="weight" value="80"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-149.1671" y="91.819786"></viz:position>
+      </node>
+      <node id="Gongsun Zan" label="Gongsun Zan">
+        <attvalues>
+          <attvalue for="weight" value="49"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-64.79222" y="-180.56639"></viz:position>
+      </node>
+      <node id="Li Ru" label="Li Ru">
+        <attvalues>
+          <attvalue for="weight" value="48"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="431.02994" y="-351.26413"></viz:position>
+      </node>
+      <node id="He Jin" label="He Jin">
+        <attvalues>
+          <attvalue for="weight" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-108.215256" y="-317.11356"></viz:position>
+      </node>
+      <node id="Zhang Fei" label="Zhang Fei">
+        <attvalues>
+          <attvalue for="weight" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-363.3558" y="-132.81642"></viz:position>
+      </node>
+      <node id="Li Su" label="Li Su">
+        <attvalues>
+          <attvalue for="weight" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="104.294846" y="62.78463"></viz:position>
+      </node>
+      <node id="Guan Yu" label="Guan Yu">
+        <attvalues>
+          <attvalue for="weight" value="29"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="239.29466" y="280.1044"></viz:position>
+      </node>
+      <node id="Prime Minister" label="Prime Minister">
+        <attvalues>
+          <attvalue for="weight" value="29"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-363.02243" y="410.3679"></viz:position>
+      </node>
+      <node id="Liu Biao" label="Liu Biao">
+        <attvalues>
+          <attvalue for="weight" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-10.894364" y="-83.35258"></viz:position>
+      </node>
+      <node id="Diao Chan" label="Diao Chan">
+        <attvalues>
+          <attvalue for="weight" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-226.0862" y="-197.2419"></viz:position>
+      </node>
+      <node id="Imperial Protector" label="Imperial Protector">
+        <attvalues>
+          <attvalue for="weight" value="20"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="157.04234" y="63.566246"></viz:position>
+      </node>
+      <node id="Yuan Shu" label="Yuan Shu">
+        <attvalues>
+          <attvalue for="weight" value="20"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="78.35075" y="480.65677"></viz:position>
+      </node>
+      <node id="Zhu Jun" label="Zhu Jun">
+        <attvalues>
+          <attvalue for="weight" value="19"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="436.15298" y="513.0931"></viz:position>
+      </node>
+      <node id="Zhang Jue" label="Zhang Jue">
+        <attvalues>
+          <attvalue for="weight" value="18"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-84.49834" y="-452.47665"></viz:position>
+      </node>
+      <node id="Ding Yuan" label="Ding Yuan">
+        <attvalues>
+          <attvalue for="weight" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="189.41917" y="-478.4352"></viz:position>
+      </node>
+      <node id="Chen Gong" label="Chen Gong">
+        <attvalues>
+          <attvalue for="weight" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="128.18272" y="-21.175364"></viz:position>
+      </node>
+      <node id="Lu Zhi" label="Lu Zhi">
+        <attvalues>
+          <attvalue for="weight" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="36.798325" y="-284.23065"></viz:position>
+      </node>
+      <node id="Empress He" label="Empress He">
+        <attvalues>
+          <attvalue for="weight" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="387.6556" y="55.765587"></viz:position>
+      </node>
+      <node id="Li Jue" label="Li Jue">
+        <attvalues>
+          <attvalue for="weight" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-314.82376" y="352.92728"></viz:position>
+      </node>
+      <node id="Huang Zu" label="Huang Zu">
+        <attvalues>
+          <attvalue for="weight" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.695877" y="-40.018013"></viz:position>
+      </node>
+      <node id="Zhang Rang" label="Zhang Rang">
+        <attvalues>
+          <attvalue for="weight" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-277.67163" y="-334.58282"></viz:position>
+      </node>
+      <node id="Cheng Pu" label="Cheng Pu">
+        <attvalues>
+          <attvalue for="weight" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="444.27835" y="-456.00336"></viz:position>
+      </node>
+      <node id="Empress Dong" label="Empress Dong">
+        <attvalues>
+          <attvalue for="weight" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-180.37694" y="502.80112"></viz:position>
+      </node>
+      <node id="Guo Si" label="Guo Si">
+        <attvalues>
+          <attvalue for="weight" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-505.999" y="226.80965"></viz:position>
+      </node>
+      <node id="Huang Gai" label="Huang Gai">
+        <attvalues>
+          <attvalue for="weight" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="418.08255" y="121.39907"></viz:position>
+      </node>
+      <node id="Zhang Bao" label="Zhang Bao">
+        <attvalues>
+          <attvalue for="weight" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="184.43474" y="-445.18478"></viz:position>
+      </node>
+      <node id="Huangfu Song" label="Huangfu Song">
+        <attvalues>
+          <attvalue for="weight" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-491.45053" y="-234.39061"></viz:position>
+      </node>
+      <node id="Han Fu" label="Han Fu">
+        <attvalues>
+          <attvalue for="weight" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="61.27043" y="215.30598"></viz:position>
+      </node>
+      <node id="Cai Mao" label="Cai Mao">
+        <attvalues>
+          <attvalue for="weight" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-440.90985" y="-364.63574"></viz:position>
+      </node>
+      <node id="Cai Yong" label="Cai Yong">
+        <attvalues>
+          <attvalue for="weight" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="369.70132" y="193.14833"></viz:position>
+      </node>
+      <node id="Liu Tao" label="Liu Tao">
+        <attvalues>
+          <attvalue for="weight" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-8.601274" y="-59.44178"></viz:position>
+      </node>
+      <node id="Wen Chou" label="Wen Chou">
+        <attvalues>
+          <attvalue for="weight" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="43.208908" y="320.78024"></viz:position>
+      </node>
+      <node id="Kuai Liang" label="Kuai Liang">
+        <attvalues>
+          <attvalue for="weight" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-137.15129" y="5.9802155"></viz:position>
+      </node>
+      <node id="Sun Ce" label="Sun Ce">
+        <attvalues>
+          <attvalue for="weight" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="284.7897" y="-312.49503"></viz:position>
+      </node>
+      <node id="Jian Shuo" label="Jian Shuo">
+        <attvalues>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-428.0283" y="-190.77397"></viz:position>
+      </node>
+      <node id="Liu Xian" label="Liu Xian">
+        <attvalues>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="41.316086" y="246.12404"></viz:position>
+      </node>
+      <node id="Zhang Ji" label="Zhang Ji">
+        <attvalues>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="472.52518" y="-90.73667"></viz:position>
+      </node>
+      <node id="Fan Chou" label="Fan Chou">
+        <attvalues>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-432.77496" y="483.27274"></viz:position>
+      </node>
+      <node id="Bao Xin" label="Bao Xin">
+        <attvalues>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="254.94493" y="454.76718"></viz:position>
+      </node>
+      <node id="Lu Boshe" label="Lu Boshe">
+        <attvalues>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-424.5065" y="204.3918"></viz:position>
+      </node>
+      <node id="Zhao Yun" label="Zhao Yun">
+        <attvalues>
+          <attvalue for="weight" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-166.13979" y="-150.96208"></viz:position>
+      </node>
+      <node id="Zhou Jing" label="Zhou Jing">
+        <attvalues>
+          <attvalue for="weight" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="181.86089" y="325.09"></viz:position>
+      </node>
+      <node id="Cao Hong" label="Cao Hong">
+        <attvalues>
+          <attvalue for="weight" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="266.48184" y="-307.73972"></viz:position>
+      </node>
+      <node id="Wang Kuang" label="Wang Kuang">
+        <attvalues>
+          <attvalue for="weight" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-37.47899" y="57.72152"></viz:position>
+      </node>
+      <node id="Xiahou Dun" label="Xiahou Dun">
+        <attvalues>
+          <attvalue for="weight" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-80.94246" y="-177.9435"></viz:position>
+      </node>
+      <node id="Han Dang" label="Han Dang">
+        <attvalues>
+          <attvalue for="weight" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-33.9879" y="35.323204"></viz:position>
+      </node>
+      <node id="Prince Xian" label="Prince Xian">
+        <attvalues>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-302.7797" y="-370.2672"></viz:position>
+      </node>
+      <node id="Min Gong" label="Min Gong">
+        <attvalues>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="446.79092" y="-275.37302"></viz:position>
+      </node>
+      <node id="Zu Mao" label="Zu Mao">
+        <attvalues>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-339.0605" y="342.31198"></viz:position>
+      </node>
+      <node id="Kuai Yue" label="Kuai Yue">
+        <attvalues>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="420.98618" y="-54.318"></viz:position>
+      </node>
+      <node id="Huan Jie" label="Huan Jie">
+        <attvalues>
+          <attvalue for="weight" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-244.08345" y="-370.60666"></viz:position>
+      </node>
+      <node id="Zhou Bi" label="Zhou Bi">
+        <attvalues>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-115.91765" y="437.6934"></viz:position>
+      </node>
+      <node id="Wei Hong" label="Wei Hong">
+        <attvalues>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-289.3501" y="-280.92746"></viz:position>
+      </node>
+      <node id="Xiahou Yuan" label="Xiahou Yuan">
+        <attvalues>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-324.20486" y="189.00246"></viz:position>
+      </node>
+      <node id="Geng Wu" label="Geng Wu">
+        <attvalues>
+          <attvalue for="weight" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="372.0272" y="188.60262"></viz:position>
+      </node>
+      <node id="Xu Shao" label="Xu Shao">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-470.84442" y="-316.29395"></viz:position>
+      </node>
+      <node id="His Majesty" label="His Majesty">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-117.814804" y="-266.82864"></viz:position>
+      </node>
+      <node id="Pan Yin" label="Pan Yin">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-201.17143" y="308.23007"></viz:position>
+      </node>
+      <node id="Wu Kuang" label="Wu Kuang">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="135.5103" y="510.11435"></viz:position>
+      </node>
+      <node id="Yang Biao" label="Yang Biao">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-272.05063" y="-91.75443"></viz:position>
+      </node>
+      <node id="Wu Qiong" label="Wu Qiong">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-102.96385" y="106.08175"></viz:position>
+      </node>
+      <node id="Cao Ren" label="Cao Ren">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-116.730515" y="-110.36616"></viz:position>
+      </node>
+      <node id="Kong Rong" label="Kong Rong">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-187.87276" y="-218.88252"></viz:position>
+      </node>
+      <node id="Tian Feng" label="Tian Feng">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.83932" y="316.77853"></viz:position>
+      </node>
+      <node id="Ma Midi" label="Ma Midi">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="292.22" y="406.30942"></viz:position>
+      </node>
+      <node id="Hu Chier" label="Hu Chier">
+        <attvalues>
+          <attvalue for="weight" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-417.9658" y="177.28242"></viz:position>
+      </node>
+      <node id="Emperor Xian" label="Emperor Xian">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-77.47386" y="430.61105"></viz:position>
+      </node>
+      <node id="Ma Yuanyi" label="Ma Yuanyi">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-232.01021" y="354.277"></viz:position>
+      </node>
+      <node id="Cheng Yu" label="Cheng Yu">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-395.01462" y="287.63242"></viz:position>
+      </node>
+      <node id="Yue Jin" label="Yue Jin">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.017197" y="-124.186134"></viz:position>
+      </node>
+      <node id="Li Dian" label="Li Dian">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="123.38823" y="-115.35743"></viz:position>
+      </node>
+      <node id="Liu Dai" label="Liu Dai">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="416.83035" y="-304.6038"></viz:position>
+      </node>
+      <node id="Tao Qian" label="Tao Qian">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="197.47069" y="203.72102"></viz:position>
+      </node>
+      <node id="Peng Ji" label="Peng Ji">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="245.42241" y="-401.47015"></viz:position>
+      </node>
+      <node id="Xun Chang" label="Xun Chang">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="378.91843" y="-411.05814"></viz:position>
+      </node>
+      <node id="Sun Jing" label="Sun Jing">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="263.68735" y="-172.75679"></viz:position>
+      </node>
+      <node id="Zhang Hu" label="Zhang Hu">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="334.5972" y="-6.33201"></viz:position>
+      </node>
+      <node id="Zhang Wen" label="Zhang Wen">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-312.03757" y="-332.15387"></viz:position>
+      </node>
+      <node id="Jia Xu" label="Jia Xu">
+        <attvalues>
+          <attvalue for="weight" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="160.96184" y="318.4805"></viz:position>
+      </node>
+      <node id="Guan Yu to his left, Zhang Fei to his right. Flourishing his whip, Liu Bei" label="Guan Yu to his left, Zhang Fei to his right. Flourishing his whip, Liu Bei">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-290.89737" y="-443.23294"></viz:position>
+      </node>
+      <node id="Sun Zi" label="Sun Zi">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="378.4786" y="-17.039469"></viz:position>
+      </node>
+      <node id="Noble Sir" label="Noble Sir">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="229.70647" y="225.13002"></viz:position>
+      </node>
+      <node id="Empress Dowager" label="Empress Dowager">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="166.02629" y="43.489464"></viz:position>
+      </node>
+      <node id="Xun You" label="Xun You">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-261.6295" y="24.801168"></viz:position>
+      </node>
+      <node id="Lady Wu" label="Lady Wu">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="212.62773" y="494.42587"></viz:position>
+      </node>
+      <node id="Minister Zheng Tai" label="Minister Zheng Tai">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-115.64186" y="-143.04366"></viz:position>
+      </node>
+      <node id="Ma Teng" label="Ma Teng">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="287.4932" y="-128.53493"></viz:position>
+      </node>
+      <node id="South Land" label="South Land">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="367.82388" y="58.790855"></viz:position>
+      </node>
+      <node id="Xin Ping" label="Xin Ping">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="259.2418" y="-86.31916"></viz:position>
+      </node>
+      <node id="Xin Pi" label="Xin Pi">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="218.74571" y="194.81325"></viz:position>
+      </node>
+      <node id="Ju Shou" label="Ju Shou">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-168.7018" y="-165.30476"></viz:position>
+      </node>
+      <node id="Xu You" label="Xu You">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="401.97244" y="-53.7649"></viz:position>
+      </node>
+      <node id="Sun Shao" label="Sun Shao">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-297.15237" y="-296.3827"></viz:position>
+      </node>
+      <node id="Sun Quan" label="Sun Quan">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-43.696396" y="195.28871"></viz:position>
+      </node>
+      <node id="she. “" label="she. “">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="213.36107" y="-457.1632"></viz:position>
+      </node>
+      <node id="Zhuge Liang" label="Zhuge Liang">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-447.72562" y="-39.124214"></viz:position>
+      </node>
+      <node id="Li Meng" label="Li Meng">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-216.41173" y="12.454307"></viz:position>
+      </node>
+      <node id="Wang Fang" label="Wang Fang">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="436.3292" y="57.769554"></viz:position>
+      </node>
+      <node id="Wang Qi" label="Wang Qi">
+        <attvalues>
+          <attvalue for="weight" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-372.95145" y="-29.924723"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="12" source="Zhang Rang" target="He Jin" weight="4.0"></edge>
+      <edge id="13" source="Zhang Bao" target="Zhu Jun" weight="5.0"></edge>
+      <edge id="14" source="Zhang Bao" target="Liu Bei" weight="5.0"></edge>
+      <edge id="15" source="He Jin" target="Cao Cao" weight="5.0"></edge>
+      <edge id="16" source="He Jin" target="Yuan Shao" weight="4.0"></edge>
+      <edge id="17" source="He Jin" target="Zhang Rang" weight="4.0"></edge>
+      <edge id="18" source="Zhu Jun" target="Huangfu Song" weight="7.0"></edge>
+      <edge id="19" source="Zhu Jun" target="Zhang Bao" weight="5.0"></edge>
+      <edge id="20" source="Zhu Jun" target="Liu Bei" weight="12.0"></edge>
+      <edge id="21" source="Zhu Jun" target="Sun Jian" weight="4.0"></edge>
+      <edge id="22" source="Lu Zhi" target="Huangfu Song" weight="4.0"></edge>
+      <edge id="23" source="Lu Zhi" target="Liu Bei" weight="6.0"></edge>
+      <edge id="24" source="Huangfu Song" target="Zhu Jun" weight="7.0"></edge>
+      <edge id="25" source="Huangfu Song" target="Lu Zhi" weight="4.0"></edge>
+      <edge id="26" source="Huangfu Song" target="Liu Bei" weight="4.0"></edge>
+      <edge id="27" source="Zhou Jing" target="Liu Bei" weight="4.0"></edge>
+      <edge id="28" source="Imperial Protector" target="Sun Jian" weight="4.0"></edge>
+      <edge id="29" source="Imperial Protector" target="Han Fu" weight="5.0"></edge>
+      <edge id="30" source="Imperial Protector" target="Yuan Shao" weight="4.0"></edge>
+      <edge id="31" source="Liu Bei" target="Gongsun Zan" weight="10.0"></edge>
+      <edge id="32" source="Liu Bei" target="Lu Zhi" weight="6.0"></edge>
+      <edge id="33" source="Liu Bei" target="Zhang Fei" weight="17.0"></edge>
+      <edge id="34" source="Liu Bei" target="Guan Yu" weight="14.0"></edge>
+      <edge id="35" source="Liu Bei" target="Zhou Jing" weight="4.0"></edge>
+      <edge id="36" source="Liu Bei" target="Zhu Jun" weight="12.0"></edge>
+      <edge id="37" source="Liu Bei" target="Zhang Bao" weight="5.0"></edge>
+      <edge id="38" source="Liu Bei" target="Huangfu Song" weight="4.0"></edge>
+      <edge id="39" source="Liu Bei" target="Sun Jian" weight="4.0"></edge>
+      <edge id="40" source="Liu Bei" target="Yuan Shao" weight="5.0"></edge>
+      <edge id="41" source="Gongsun Zan" target="Liu Bei" weight="10.0"></edge>
+      <edge id="42" source="Gongsun Zan" target="Yuan Shao" weight="21.0"></edge>
+      <edge id="43" source="Gongsun Zan" target="Wen Chou" weight="6.0"></edge>
+      <edge id="44" source="Gongsun Zan" target="Zhao Yun" weight="6.0"></edge>
+      <edge id="45" source="Zhang Fei" target="Guan Yu" weight="17.0"></edge>
+      <edge id="46" source="Zhang Fei" target="Liu Bei" weight="17.0"></edge>
+      <edge id="47" source="Zhang Fei" target="Dong Zhuo" weight="4.0"></edge>
+      <edge id="48" source="Guan Yu" target="Zhang Fei" weight="17.0"></edge>
+      <edge id="49" source="Guan Yu" target="Liu Bei" weight="14.0"></edge>
+      <edge id="50" source="Cao Cao" target="He Jin" weight="5.0"></edge>
+      <edge id="51" source="Cao Cao" target="Yuan Shao" weight="10.0"></edge>
+      <edge id="52" source="Cao Cao" target="Yuan Shu" weight="5.0"></edge>
+      <edge id="53" source="Cao Cao" target="Dong Zhuo" weight="16.0"></edge>
+      <edge id="54" source="Cao Cao" target="Lu Bu" weight="8.0"></edge>
+      <edge id="55" source="Cao Cao" target="Lu Boshe" weight="5.0"></edge>
+      <edge id="56" source="Cao Cao" target="Chen Gong" weight="7.0"></edge>
+      <edge id="57" source="Cao Cao" target="Xiahou Dun" weight="5.0"></edge>
+      <edge id="58" source="Cao Cao" target="Cao Hong" weight="5.0"></edge>
+      <edge id="59" source="Dong Zhuo" target="Zhang Fei" weight="4.0"></edge>
+      <edge id="60" source="Dong Zhuo" target="Ding Yuan" weight="7.0"></edge>
+      <edge id="61" source="Dong Zhuo" target="Li Su" weight="8.0"></edge>
+      <edge id="62" source="Dong Zhuo" target="Lu Bu" weight="37.0"></edge>
+      <edge id="63" source="Dong Zhuo" target="Zhang Ji" weight="4.0"></edge>
+      <edge id="64" source="Dong Zhuo" target="Guo Si" weight="5.0"></edge>
+      <edge id="65" source="Dong Zhuo" target="Li Jue" weight="8.0"></edge>
+      <edge id="66" source="Dong Zhuo" target="Fan Chou" weight="4.0"></edge>
+      <edge id="67" source="Dong Zhuo" target="Li Ru" weight="18.0"></edge>
+      <edge id="68" source="Dong Zhuo" target="Yuan Shao" weight="9.0"></edge>
+      <edge id="69" source="Dong Zhuo" target="Cao Cao" weight="16.0"></edge>
+      <edge id="70" source="Dong Zhuo" target="Prime Minister" weight="5.0"></edge>
+      <edge id="71" source="Dong Zhuo" target="Wang Yun" weight="20.0"></edge>
+      <edge id="72" source="Dong Zhuo" target="Sun Jian" weight="7.0"></edge>
+      <edge id="73" source="Dong Zhuo" target="Diao Chan" weight="6.0"></edge>
+      <edge id="74" source="Sun Jian" target="Zhu Jun" weight="4.0"></edge>
+      <edge id="75" source="Sun Jian" target="Imperial Protector" weight="4.0"></edge>
+      <edge id="76" source="Sun Jian" target="Liu Bei" weight="4.0"></edge>
+      <edge id="77" source="Sun Jian" target="Cheng Pu" weight="10.0"></edge>
+      <edge id="78" source="Sun Jian" target="Huang Gai" weight="9.0"></edge>
+      <edge id="79" source="Sun Jian" target="Han Dang" weight="5.0"></edge>
+      <edge id="80" source="Sun Jian" target="Yuan Shao" weight="12.0"></edge>
+      <edge id="81" source="Sun Jian" target="Dong Zhuo" weight="7.0"></edge>
+      <edge id="82" source="Sun Jian" target="Yuan Shu" weight="5.0"></edge>
+      <edge id="83" source="Sun Jian" target="Liu Biao" weight="12.0"></edge>
+      <edge id="84" source="Sun Jian" target="Cai Mao" weight="5.0"></edge>
+      <edge id="85" source="Sun Jian" target="Kuai Liang" weight="4.0"></edge>
+      <edge id="86" source="Sun Jian" target="Huang Zu" weight="5.0"></edge>
+      <edge id="87" source="Empress He" target="Empress Dong" weight="4.0"></edge>
+      <edge id="88" source="Empress Dong" target="Empress He" weight="4.0"></edge>
+      <edge id="89" source="Empress Dong" target="Liu Xian" weight="4.0"></edge>
+      <edge id="90" source="Liu Xian" target="Empress Dong" weight="4.0"></edge>
+      <edge id="91" source="Yuan Shao" target="He Jin" weight="4.0"></edge>
+      <edge id="92" source="Yuan Shao" target="Cao Cao" weight="10.0"></edge>
+      <edge id="93" source="Yuan Shao" target="Yuan Shu" weight="5.0"></edge>
+      <edge id="94" source="Yuan Shao" target="Dong Zhuo" weight="9.0"></edge>
+      <edge id="95" source="Yuan Shao" target="Sun Jian" weight="12.0"></edge>
+      <edge id="96" source="Yuan Shao" target="Gongsun Zan" weight="21.0"></edge>
+      <edge id="97" source="Yuan Shao" target="Liu Bei" weight="5.0"></edge>
+      <edge id="98" source="Yuan Shao" target="Wen Chou" weight="4.0"></edge>
+      <edge id="99" source="Yuan Shao" target="Liu Biao" weight="6.0"></edge>
+      <edge id="100" source="Yuan Shao" target="Imperial Protector" weight="4.0"></edge>
+      <edge id="101" source="Yuan Shao" target="Han Fu" weight="7.0"></edge>
+      <edge id="102" source="Yuan Shao" target="Zhao Yun" weight="4.0"></edge>
+      <edge id="103" source="Ding Yuan" target="Li Su" weight="4.0"></edge>
+      <edge id="104" source="Ding Yuan" target="Dong Zhuo" weight="7.0"></edge>
+      <edge id="105" source="Ding Yuan" target="Lu Bu" weight="9.0"></edge>
+      <edge id="106" source="Li Su" target="Ding Yuan" weight="4.0"></edge>
+      <edge id="107" source="Li Su" target="Dong Zhuo" weight="8.0"></edge>
+      <edge id="108" source="Li Su" target="Lu Bu" weight="17.0"></edge>
+      <edge id="109" source="Lu Bu" target="Ding Yuan" weight="9.0"></edge>
+      <edge id="110" source="Lu Bu" target="Li Su" weight="17.0"></edge>
+      <edge id="111" source="Lu Bu" target="Dong Zhuo" weight="37.0"></edge>
+      <edge id="112" source="Lu Bu" target="Li Ru" weight="9.0"></edge>
+      <edge id="113" source="Lu Bu" target="Cao Cao" weight="8.0"></edge>
+      <edge id="114" source="Lu Bu" target="Guo Si" weight="6.0"></edge>
+      <edge id="115" source="Lu Bu" target="Li Jue" weight="7.0"></edge>
+      <edge id="116" source="Lu Bu" target="Wang Yun" weight="19.0"></edge>
+      <edge id="117" source="Lu Bu" target="Prime Minister" weight="9.0"></edge>
+      <edge id="118" source="Lu Bu" target="Diao Chan" weight="12.0"></edge>
+      <edge id="119" source="Zhang Ji" target="Dong Zhuo" weight="4.0"></edge>
+      <edge id="120" source="Zhang Ji" target="Guo Si" weight="6.0"></edge>
+      <edge id="121" source="Zhang Ji" target="Li Jue" weight="6.0"></edge>
+      <edge id="122" source="Zhang Ji" target="Fan Chou" weight="7.0"></edge>
+      <edge id="123" source="Guo Si" target="Zhang Ji" weight="6.0"></edge>
+      <edge id="124" source="Guo Si" target="Dong Zhuo" weight="5.0"></edge>
+      <edge id="125" source="Guo Si" target="Li Jue" weight="9.0"></edge>
+      <edge id="126" source="Guo Si" target="Fan Chou" weight="7.0"></edge>
+      <edge id="127" source="Guo Si" target="Lu Bu" weight="6.0"></edge>
+      <edge id="128" source="Li Jue" target="Zhang Ji" weight="6.0"></edge>
+      <edge id="129" source="Li Jue" target="Dong Zhuo" weight="8.0"></edge>
+      <edge id="130" source="Li Jue" target="Guo Si" weight="9.0"></edge>
+      <edge id="131" source="Li Jue" target="Fan Chou" weight="7.0"></edge>
+      <edge id="132" source="Li Jue" target="Lu Bu" weight="7.0"></edge>
+      <edge id="133" source="Li Jue" target="Wang Yun" weight="4.0"></edge>
+      <edge id="134" source="Fan Chou" target="Zhang Ji" weight="7.0"></edge>
+      <edge id="135" source="Fan Chou" target="Dong Zhuo" weight="4.0"></edge>
+      <edge id="136" source="Fan Chou" target="Guo Si" weight="7.0"></edge>
+      <edge id="137" source="Fan Chou" target="Li Jue" weight="7.0"></edge>
+      <edge id="138" source="Li Ru" target="Dong Zhuo" weight="18.0"></edge>
+      <edge id="139" source="Li Ru" target="Lu Bu" weight="9.0"></edge>
+      <edge id="140" source="Yuan Shu" target="Yuan Shao" weight="5.0"></edge>
+      <edge id="141" source="Yuan Shu" target="Cao Cao" weight="5.0"></edge>
+      <edge id="142" source="Yuan Shu" target="Sun Jian" weight="5.0"></edge>
+      <edge id="143" source="Wang Yun" target="Dong Zhuo" weight="20.0"></edge>
+      <edge id="144" source="Wang Yun" target="Lu Bu" weight="19.0"></edge>
+      <edge id="145" source="Wang Yun" target="Prime Minister" weight="7.0"></edge>
+      <edge id="146" source="Wang Yun" target="Li Jue" weight="4.0"></edge>
+      <edge id="147" source="Prime Minister" target="Dong Zhuo" weight="5.0"></edge>
+      <edge id="148" source="Prime Minister" target="Lu Bu" weight="9.0"></edge>
+      <edge id="149" source="Prime Minister" target="Wang Yun" weight="7.0"></edge>
+      <edge id="150" source="Prime Minister" target="Diao Chan" weight="4.0"></edge>
+      <edge id="151" source="Chen Gong" target="Cao Cao" weight="7.0"></edge>
+      <edge id="152" source="Lu Boshe" target="Cao Cao" weight="5.0"></edge>
+      <edge id="153" source="Xiahou Yuan" target="Xiahou Dun" weight="4.0"></edge>
+      <edge id="154" source="Xiahou Dun" target="Xiahou Yuan" weight="4.0"></edge>
+      <edge id="155" source="Xiahou Dun" target="Cao Cao" weight="5.0"></edge>
+      <edge id="156" source="Cao Hong" target="Cao Cao" weight="5.0"></edge>
+      <edge id="157" source="Han Fu" target="Imperial Protector" weight="5.0"></edge>
+      <edge id="158" source="Han Fu" target="Yuan Shao" weight="7.0"></edge>
+      <edge id="159" source="Cheng Pu" target="Sun Jian" weight="10.0"></edge>
+      <edge id="160" source="Cheng Pu" target="Huang Gai" weight="7.0"></edge>
+      <edge id="161" source="Cheng Pu" target="Han Dang" weight="4.0"></edge>
+      <edge id="162" source="Huang Gai" target="Cheng Pu" weight="7.0"></edge>
+      <edge id="163" source="Huang Gai" target="Sun Jian" weight="9.0"></edge>
+      <edge id="164" source="Huang Gai" target="Han Dang" weight="4.0"></edge>
+      <edge id="165" source="Huang Gai" target="Huang Zu" weight="5.0"></edge>
+      <edge id="166" source="Han Dang" target="Cheng Pu" weight="4.0"></edge>
+      <edge id="167" source="Han Dang" target="Sun Jian" weight="5.0"></edge>
+      <edge id="168" source="Han Dang" target="Huang Gai" weight="4.0"></edge>
+      <edge id="169" source="Wen Chou" target="Yuan Shao" weight="4.0"></edge>
+      <edge id="170" source="Wen Chou" target="Gongsun Zan" weight="6.0"></edge>
+      <edge id="171" source="Liu Biao" target="Sun Jian" weight="12.0"></edge>
+      <edge id="172" source="Liu Biao" target="Yuan Shao" weight="6.0"></edge>
+      <edge id="173" source="Liu Biao" target="Kuai Liang" weight="5.0"></edge>
+      <edge id="174" source="Liu Biao" target="Cai Mao" weight="5.0"></edge>
+      <edge id="175" source="Liu Biao" target="Huang Zu" weight="4.0"></edge>
+      <edge id="176" source="Kuai Liang" target="Liu Biao" weight="5.0"></edge>
+      <edge id="177" source="Kuai Liang" target="Sun Jian" weight="4.0"></edge>
+      <edge id="178" source="Kuai Yue" target="Cai Mao" weight="5.0"></edge>
+      <edge id="179" source="Cai Mao" target="Liu Biao" weight="5.0"></edge>
+      <edge id="180" source="Cai Mao" target="Kuai Yue" weight="5.0"></edge>
+      <edge id="181" source="Cai Mao" target="Sun Jian" weight="5.0"></edge>
+      <edge id="182" source="Zhao Yun" target="Yuan Shao" weight="4.0"></edge>
+      <edge id="183" source="Zhao Yun" target="Gongsun Zan" weight="6.0"></edge>
+      <edge id="184" source="Huang Zu" target="Sun Jian" weight="5.0"></edge>
+      <edge id="185" source="Huang Zu" target="Liu Biao" weight="4.0"></edge>
+      <edge id="186" source="Huang Zu" target="Huang Gai" weight="5.0"></edge>
+      <edge id="187" source="Diao Chan" target="Lu Bu" weight="12.0"></edge>
+      <edge id="188" source="Diao Chan" target="Prime Minister" weight="4.0"></edge>
+      <edge id="189" source="Diao Chan" target="Dong Zhuo" weight="6.0"></edge>
+    </edges>
+  </graph>
+</gexf>
