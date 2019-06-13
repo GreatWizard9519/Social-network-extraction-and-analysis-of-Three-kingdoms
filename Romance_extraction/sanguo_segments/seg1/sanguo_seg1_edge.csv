@@ -1,0 +1,13 @@
+Source,Target,weight
+Zhu Jun,Huangfu Song,5
+Lu Zhi,Liu Bei,6
+Huangfu Song,Zhu Jun,5
+Zhou Jing,Liu Bei,4
+Liu Bei,Lu Zhi,6
+Liu Bei,Zhang Fei,8
+Liu Bei,Guan Yu,6
+Liu Bei,Zhou Jing,4
+Zhang Fei,Guan Yu,7
+Zhang Fei,Liu Bei,8
+Guan Yu,Zhang Fei,7
+Guan Yu,Liu Bei,6

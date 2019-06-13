@@ -1,0 +1,23 @@
+Id Label Weight
+Liu Bei Liu Bei 29
+Zhang Jue Zhang Jue 16
+Zhang Fei Zhang Fei 15
+Cao Cao Cao Cao 11
+Guan Yu Guan Yu 9
+Lu Zhi Lu Zhi 8
+Zhou Jing Zhou Jing 6
+Huangfu Song Huangfu Song 5
+Dong Zhuo Dong Zhuo 5
+Zhang Bao Zhang Bao 4
+Zhu Jun Zhu Jun 4
+Imperial Protector Imperial Protector 3
+Emperor Xian Emperor Xian 1
+Cai Yong Cai Yong 1
+Zhang Rang Zhang Rang 1
+Jian Shuo Jian Shuo 1
+Ma Yuanyi Ma Yuanyi 1
+He Jin He Jin 1
+Cheng Yu Cheng Yu 1
+Xu Shao Xu Shao 1
+Gongsun Zan Gongsun Zan 0
+Guan Yu to his left, Zhang Fei to his right. Flourishing his whip, Liu Bei Guan Yu to his left, Zhang Fei to his right. Flourishing his whip, Liu Bei 0

@@ -1,0 +1,13 @@
+Source Target Weight
+Zhu JunHuangfu Song5
+Lu ZhiLiu Bei6
+Huangfu SongZhu Jun5
+Zhou JingLiu Bei4
+Liu BeiLu Zhi6
+Liu BeiZhang Fei8
+Liu BeiGuan Yu6
+Liu BeiZhou Jing4
+Zhang FeiGuan Yu7
+Zhang FeiLiu Bei8
+Guan YuZhang Fei7
+Guan YuLiu Bei6
