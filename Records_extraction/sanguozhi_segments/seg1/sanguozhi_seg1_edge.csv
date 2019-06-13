@@ -1,0 +1,37 @@
+Source,Target,weight
+Guan Yu,Zhang Fei,14
+Guan Yu,Liu Bei,6
+Liu Bei,Guan Yu,6
+Liu Bei,Zhang Fei,31
+Liu Bei,Zhuge Liang,12
+Liu Bei,The grand marshal,10
+Liu Bei,Zhang Biao,10
+Liu Bei,Zhang Bao,10
+Zhuge Liang,Zhang Fei,16
+Zhuge Liang,Liu Bei,12
+Zhuge Liang,The grand marshal,6
+Zhuge Liang,Zhang Biao,5
+Zhuge Liang,Zhang Bao,6
+Zhang Fei,Guan Yu,14
+Zhang Fei,the prince,5
+Zhang Fei,Liu Bei,31
+Zhang Fei,the Prince of Yan,5
+Zhang Fei,Zhuge Liang,16
+Zhang Fei,The grand marshal,4
+Zhang Fei,Zhang Biao,20
+Zhang Fei,Zhang Bao,20
+the prince,Zhang Fei,5
+the Prince of Yan,Zhang Fei,5
+The grand marshal,Zhuge Liang,6
+The grand marshal,Liu Bei,10
+The grand marshal,Zhang Fei,4
+Zhang Bao,Zhang Biao,14
+Zhang Bao,Zhuge Liang,6
+Zhang Bao,Liu Bei,10
+Zhang Bao,Zhang Fei,20
+Zhang Bao,We have,4
+Zhang Biao,Zhang Bao,14
+Zhang Biao,Zhuge Liang,5
+Zhang Biao,Liu Bei,10
+Zhang Biao,Zhang Fei,20
+We have,Zhang Bao,4

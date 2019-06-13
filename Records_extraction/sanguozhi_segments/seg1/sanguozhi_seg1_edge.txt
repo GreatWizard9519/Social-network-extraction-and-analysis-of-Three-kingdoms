@@ -1,0 +1,37 @@
+Source Target Weight
+Guan YuZhang Fei14
+Guan YuLiu Bei6
+Liu BeiGuan Yu6
+Liu BeiZhang Fei31
+Liu BeiZhuge Liang12
+Liu BeiThe grand marshal10
+Liu BeiZhang Biao10
+Liu BeiZhang Bao10
+Zhuge LiangZhang Fei16
+Zhuge LiangLiu Bei12
+Zhuge LiangThe grand marshal6
+Zhuge LiangZhang Biao5
+Zhuge LiangZhang Bao6
+Zhang FeiGuan Yu14
+Zhang Feithe prince5
+Zhang FeiLiu Bei31
+Zhang Feithe Prince of Yan5
+Zhang FeiZhuge Liang16
+Zhang FeiThe grand marshal4
+Zhang FeiZhang Biao20
+Zhang FeiZhang Bao20
+the princeZhang Fei5
+the Prince of YanZhang Fei5
+The grand marshalZhuge Liang6
+The grand marshalLiu Bei10
+The grand marshalZhang Fei4
+Zhang BaoZhang Biao14
+Zhang BaoZhuge Liang6
+Zhang BaoLiu Bei10
+Zhang BaoZhang Fei20
+Zhang BaoWe have4
+Zhang BiaoZhang Bao14
+Zhang BiaoZhuge Liang5
+Zhang BiaoLiu Bei10
+Zhang BiaoZhang Fei20
+We haveZhang Bao4

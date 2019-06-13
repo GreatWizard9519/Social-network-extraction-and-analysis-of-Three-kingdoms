@@ -1,0 +1,359 @@
+Source,Target,weight
+The emperor,Zhuge Liang,6
+The emperor,Zhang Fei,8
+The emperor,Liu Bei,22
+The emperor,Dong Cheng,12
+The emperor,Ten Constant Attendants,4
+The emperor,Imperial Father,10
+The emperor,Dong Zhuo,14
+The emperor,Zhao Yun,4
+The emperor,Emperor Xian,5
+The emperor,Cao Cao,28
+The emperor,Wang Yun,4
+The emperor,the Prince of Ji,4
+The emperor,Lü Bu,4
+Sun Quan,Liu Bei,5
+Emperor Xian,Dong Zhuo,8
+Emperor Xian,Cao Cao,7
+Emperor Xian,The emperor,5
+Emperor Xian,Liu Bei,8
+Guan Yu,Zhao Yun,33
+Guan Yu,Zhang Fei,78
+Guan Yu,Liu Bei,103
+Guan Yu,Zhuge Liang,10
+Guan Yu,Zhang Biao,4
+Guan Yu,Zhang Bao,4
+Guan Yu,the Prince of Ji,12
+Guan Yu,Yuan Shao,12
+Guan Yu,Lü Bu,11
+Guan Yu,Cao Cao,75
+Guan Yu,"Lü Bu,",4
+Guan Yu,Xiahou Dun,10
+Guan Yu,Zhang Liao,6
+Guan Yu,Wen Chou,6
+Guan Yu,Cai Yang,6
+Cao Cao,Dong Zhuo,23
+Cao Cao,Zhao Yun,32
+Cao Cao,Emperor Xian,7
+Cao Cao,Emperor Ling,4
+Cao Cao,The emperor,28
+Cao Cao,the farmer,4
+Cao Cao,Liu Bei,243
+Cao Cao,Lü Bu,51
+Cao Cao,"Lü Bu,",14
+Cao Cao,Zhang Fei,149
+Cao Cao,Lü Bu.,13
+Cao Cao,the prefect,12
+Cao Cao,Sun Jian,4
+Cao Cao,The soldier,4
+Cao Cao,Yuan Shao,26
+Cao Cao,the Prince of Ji,27
+Cao Cao,Cao Bao,7
+Cao Cao,Zhang Bao,7
+Cao Cao,Guan Yu,75
+Cao Cao,Liu Biao,8
+Cao Cao,the prince,4
+Cao Cao,Chen Gong,17
+Cao Cao,Xiahou Dun,49
+Cao Cao,Hou Cheng,7
+Cao Cao,Zhang Liao,18
+Cao Cao,Dong Cheng,7
+Cao Cao,Imperial Father,5
+Cao Cao,Ji Ping,18
+Cao Cao,Xu You,4
+Cao Cao,Wen Chou,7
+Cao Cao,Cai Yang,6
+Cao Cao,the Prince of Jing,8
+Cao Cao,Kuai Yue,4
+Cao Cao,Xu Shu,12
+Cao Cao,Zhuge Liang,33
+Cao Cao,Liu Cong,4
+Cao Cao,Consort Gan,4
+Liu Bei,Guan Yu,103
+Liu Bei,Zhang Fei,219
+Liu Bei,Zhao Yun,86
+Liu Bei,Jian Xianhe,12
+Liu Bei,Zhuge Liang,70
+Liu Bei,The grand marshal,10
+Liu Bei,Zhang Biao,11
+Liu Bei,Zhang Bao,14
+Liu Bei,The emperor,22
+Liu Bei,Ten Constant Attendants,8
+Liu Bei,Duan Gui,4
+Liu Bei,Dong Cheng,12
+Liu Bei,the prefect,19
+Liu Bei,Imperial Father,8
+Liu Bei,Dong Zhuo,31
+Liu Bei,Cao Cao,243
+Liu Bei,Lü Bu,73
+Liu Bei,"Lü Bu,",17
+Liu Bei,Lü Bu.,13
+Liu Bei,Sun Jian,7
+Liu Bei,Yuan Shao,27
+Liu Bei,the Prince of Ji,46
+Liu Bei,Liu Biao,23
+Liu Bei,the prince,7
+Liu Bei,Chen Gong,10
+Liu Bei,Yuan Shu,12
+Liu Bei,Ji Ling,15
+Liu Bei,Cao Bao,4
+Liu Bei,Hou Cheng,5
+Liu Bei,Zhang Liao,10
+Liu Bei,Emperor Xian,8
+Liu Bei,Emperor Ling,7
+Liu Bei,the Prince of Jing,20
+Liu Bei,Wu Zilan,6
+Liu Bei,Ji Ping,6
+Liu Bei,Che Zhou,5
+Liu Bei,August Emperor,4
+Liu Bei,Wen Chou,9
+Liu Bei,Gong Gu,6
+Liu Bei,Kuai Yue,12
+Liu Bei,Cai Mao,9
+Liu Bei,Xu Shu,16
+Liu Bei,Sun Quan,5
+Liu Bei,Xiahou Dun,6
+Liu Bei,Liu Cong,4
+Zhuge Liang,The emperor,6
+Zhuge Liang,Zhang Fei,46
+Zhuge Liang,Liu Bei,70
+Zhuge Liang,The grand marshal,6
+Zhuge Liang,Guan Yu,10
+Zhuge Liang,Zhang Biao,5
+Zhuge Liang,Zhang Bao,6
+Zhuge Liang,Xu Shu,6
+Zhuge Liang,Zhao Yun,13
+Zhuge Liang,Cao Cao,33
+Zhuge Liang,Xiahou Dun,21
+Zhang Fei,Guan Yu,78
+Zhang Fei,the prince,7
+Zhang Fei,Liu Bei,219
+Zhang Fei,the Prince of Yan,5
+Zhang Fei,Zhang Yi,4
+Zhang Fei,Zhao Yun,26
+Zhang Fei,Zhuge Liang,46
+Zhang Fei,The grand marshal,4
+Zhang Fei,Zhang Biao,20
+Zhang Fei,The emperor,8
+Zhang Fei,Zhang Bao,24
+Zhang Fei,Duan Gui,6
+Zhang Fei,the prefect,10
+Zhang Fei,Dong Zhuo,12
+Zhang Fei,Lü Bu,52
+Zhang Fei,Cao Cao,149
+Zhang Fei,Lü Bu.,21
+Zhang Fei,Sun Jian,6
+Zhang Fei,The soldier,4
+Zhang Fei,the Prince of Ji,7
+Zhang Fei,Yuan Shao,6
+Zhang Fei,Yuan Shu,4
+Zhang Fei,Ji Ling,8
+Zhang Fei,Cao Bao,4
+Zhang Fei,Zhang Ben,4
+Zhang Fei,"Lü Bu,",12
+Zhang Fei,Chen Gong,4
+Zhang Fei,Xiahou Dun,28
+Zhang Fei,Zhang Liao,8
+Zhang Fei,Cai Yang,6
+Zhang Fei,Xu Shu,4
+Emperor Ling,Cao Cao,4
+Emperor Ling,Liu Bei,7
+the prince,Zhang Fei,7
+the prince,Liu Bei,7
+the prince,Cao Cao,4
+the Prince of Yan,Zhang Fei,5
+Zhang Yi,Zhang Fei,4
+Jian Xianhe,Liu Bei,12
+The grand marshal,Zhuge Liang,6
+The grand marshal,Liu Bei,10
+The grand marshal,Zhang Fei,4
+Zhang Bao,Zhang Biao,14
+Zhang Bao,Zhuge Liang,6
+Zhang Bao,Liu Bei,14
+Zhang Bao,Zhang Fei,24
+Zhang Bao,We have,4
+Zhang Bao,Guan Yu,4
+Zhang Bao,Cao Bao,5
+Zhang Bao,Lü Bu,4
+Zhang Bao,Cao Cao,7
+Zhang Biao,Zhang Bao,14
+Zhang Biao,Zhuge Liang,5
+Zhang Biao,Liu Bei,11
+Zhang Biao,Zhang Fei,20
+Zhang Biao,Guan Yu,4
+We have,Zhang Bao,4
+Ten Constant Attendants,Liu Bei,8
+Ten Constant Attendants,The emperor,4
+Duan Gui,Liu Bei,4
+Duan Gui,Zhang Fei,6
+Dong Cheng,Liu Bei,12
+Dong Cheng,The emperor,12
+Dong Cheng,Imperial Father,7
+Dong Cheng,Cao Cao,7
+the prefect,Liu Bei,19
+the prefect,Zhang Fei,10
+the prefect,Dong Zhuo,4
+the prefect,Cao Cao,12
+the prefect,Lü Bu,4
+Imperial Father,Dong Cheng,7
+Imperial Father,The emperor,10
+Imperial Father,Liu Bei,8
+Imperial Father,Cao Cao,5
+Dong Zhuo,Lü Bu,27
+Dong Zhuo,Zhao Yun,16
+Dong Zhuo,Emperor Xian,8
+Dong Zhuo,Cao Cao,23
+Dong Zhuo,The emperor,14
+Dong Zhuo,Wang Yun,16
+Dong Zhuo,"Lü Bu,",13
+Dong Zhuo,Lü Bu.,6
+Dong Zhuo,Li Su,7
+Dong Zhuo,the Prince of Ji,4
+Dong Zhuo,Sun Jian,5
+Dong Zhuo,Yuan Shao,4
+Dong Zhuo,Liu Bei,31
+Dong Zhuo,Zhang Fei,12
+Dong Zhuo,the prefect,4
+Lü Bu,Dong Zhuo,27
+Lü Bu,"Lü Bu,",18
+Lü Bu,Lü Bu.,17
+Lü Bu,Li Su,4
+Lü Bu,Liu Bei,73
+Lü Bu,Cao Cao,51
+Lü Bu,Zhang Fei,52
+Lü Bu,The emperor,4
+Lü Bu,the prefect,4
+Lü Bu,Cao Bao,4
+Lü Bu,Zhang Bao,4
+Lü Bu,Guan Yu,11
+Lü Bu,Zhao Yun,4
+Lü Bu,Wang Yun,5
+Lü Bu,Chen Gong,9
+Lü Bu,Ji Ling,6
+Lü Bu,Xiahou Dun,7
+Wang Yun,Dong Zhuo,16
+Wang Yun,Zhao Yun,10
+Wang Yun,The emperor,4
+Wang Yun,Lü Bu,5
+"Lü Bu,",Dong Zhuo,13
+"Lü Bu,",Lü Bu,18
+"Lü Bu,",Lü Bu.,4
+"Lü Bu,",Li Su,4
+"Lü Bu,",Liu Bei,17
+"Lü Bu,",Cao Cao,14
+"Lü Bu,",Guan Yu,4
+"Lü Bu,",Zhang Fei,12
+Lü Bu.,Dong Zhuo,6
+Lü Bu.,Lü Bu,17
+Lü Bu.,"Lü Bu,",4
+Lü Bu.,Zhang Fei,21
+Lü Bu.,Cao Cao,13
+Lü Bu.,Liu Bei,13
+Li Su,Dong Zhuo,7
+Li Su,Lü Bu,4
+Li Su,"Lü Bu,",4
+the Prince of Ji,Dong Zhuo,4
+the Prince of Ji,Yuan Shao,12
+the Prince of Ji,The emperor,4
+the Prince of Ji,Liu Bei,46
+the Prince of Ji,Cao Cao,27
+the Prince of Ji,Guan Yu,12
+the Prince of Ji,Zhao Yun,13
+the Prince of Ji,Zhang Fei,7
+the Prince of Ji,Liu Biao,9
+the Prince of Ji,the Prince of Jing,9
+Sun Jian,Dong Zhuo,5
+Sun Jian,Liu Bei,7
+Sun Jian,Zhang Fei,6
+Sun Jian,Cao Cao,4
+Yuan Shao,the Prince of Ji,12
+Yuan Shao,Dong Zhuo,4
+Yuan Shao,Liu Bei,27
+Yuan Shao,Cao Cao,26
+Yuan Shao,Zhang Fei,6
+Yuan Shao,Guan Yu,12
+Yuan Shao,Zhao Yun,10
+Yuan Shao,Xiahou Dun,6
+Yuan Shu,Liu Bei,12
+Yuan Shu,Zhang Fei,4
+the farmer,Cao Cao,4
+The soldier,Zhang Fei,4
+The soldier,Cao Cao,4
+Cao Bao,Zhang Bao,5
+Cao Bao,Lü Bu,4
+Cao Bao,Cao Cao,7
+Cao Bao,Zhang Fei,4
+Cao Bao,Liu Bei,4
+Liu Biao,the Prince of Ji,9
+Liu Biao,Liu Bei,23
+Liu Biao,Cao Cao,8
+Liu Biao,the Prince of Jing,6
+Liu Biao,Zhao Yun,5
+Wu Zilan,Liu Bei,6
+Chen Gong,Liu Bei,10
+Chen Gong,Lü Bu,9
+Chen Gong,Cao Cao,17
+Chen Gong,Zhang Fei,4
+Ji Ling,Liu Bei,15
+Ji Ling,Zhang Fei,8
+Ji Ling,Lü Bu,6
+Zhang Ben,Zhang Fei,4
+Hou Cheng,Liu Bei,5
+Hou Cheng,Cao Cao,7
+Xiahou Dun,Lü Bu,7
+Xiahou Dun,Zhang Fei,28
+Xiahou Dun,Cao Cao,49
+Xiahou Dun,Guan Yu,10
+Xiahou Dun,Yuan Shao,6
+Xiahou Dun,Zhuge Liang,21
+Xiahou Dun,Zhao Yun,8
+Xiahou Dun,Liu Bei,6
+Zhang Liao,Cao Cao,18
+Zhang Liao,Liu Bei,10
+Zhang Liao,Guan Yu,6
+Zhang Liao,Zhang Fei,8
+the Prince of Jing,the Prince of Ji,9
+the Prince of Jing,Liu Bei,20
+the Prince of Jing,Liu Biao,6
+the Prince of Jing,Zhao Yun,5
+the Prince of Jing,Cao Cao,8
+Ji Ping,Cao Cao,18
+Ji Ping,Liu Bei,6
+Che Zhou,Liu Bei,5
+August Emperor,Liu Bei,4
+Zhao Yun,Guan Yu,33
+Zhao Yun,Liu Bei,86
+Zhao Yun,Zhang Fei,26
+Zhao Yun,Dong Zhuo,16
+Zhao Yun,Cao Cao,32
+Zhao Yun,The emperor,4
+Zhao Yun,Wang Yun,10
+Zhao Yun,the Prince of Ji,13
+Zhao Yun,Lü Bu,4
+Zhao Yun,Yuan Shao,10
+Zhao Yun,Wen Chou,4
+Zhao Yun,Liu Biao,5
+Zhao Yun,the Prince of Jing,5
+Zhao Yun,Zhuge Liang,13
+Zhao Yun,Xiahou Dun,8
+Zhao Yun,Consort Gan,4
+Xu You,Cao Cao,4
+Wen Chou,Cao Cao,7
+Wen Chou,Guan Yu,6
+Wen Chou,Liu Bei,9
+Wen Chou,Zhao Yun,4
+Gong Gu,Liu Bei,6
+Cai Yang,Guan Yu,6
+Cai Yang,Zhang Fei,6
+Cai Yang,Cao Cao,6
+Kuai Yue,Liu Bei,12
+Kuai Yue,Cao Cao,4
+Cai Mao,Liu Bei,9
+Xu Shu,Zhang Fei,4
+Xu Shu,Liu Bei,16
+Xu Shu,Cao Cao,12
+Xu Shu,Zhuge Liang,6
+Liu Cong,Cao Cao,4
+Liu Cong,Liu Bei,4
+Consort Gan,Zhao Yun,4
+Consort Gan,Cao Cao,4

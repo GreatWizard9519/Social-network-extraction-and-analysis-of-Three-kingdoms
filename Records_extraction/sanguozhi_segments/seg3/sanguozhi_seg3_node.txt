@@ -1,0 +1,93 @@
+Id Label Weight
+Liu Bei Liu Bei 326
+Cao Cao Cao Cao 233
+Zhang Fei Zhang Fei 210
+Guan Yu Guan Yu 85
+Lü Bu Lü Bu 75
+Zhao Yun Zhao Yun 63
+Zhuge Liang Zhuge Liang 60
+Dong Zhuo Dong Zhuo 52
+The emperor The emperor 41
+Xiahou Dun Xiahou Dun 29
+the Prince of Ji the Prince of Ji 27
+Sima Zhongxiang Sima Zhongxiang 25
+Zhang Bao Zhang Bao 20
+Yuan Shao Yuan Shao 19
+Lü Bu, Lü Bu, 17
+Lü Bu. Lü Bu. 16
+the prefect the prefect 14
+Zhang Biao Zhang Biao 13
+Sima Yi Sima Yi 10
+Dong Cheng Dong Cheng 10
+Chen Gong Chen Gong 10
+The eight men The eight men 9
+Emperor Xian Emperor Xian 9
+Wang Yun Wang Yun 9
+Zhang Jue Zhang Jue 8
+Ji Ping Ji Ping 8
+Xu Shu Xu Shu 8
+the Prince of Yan the Prince of Yan 7
+Liu Biao Liu Biao 7
+Zhang Liao Zhang Liao 7
+the Prince of Jing the Prince of Jing 7
+The grand marshal The grand marshal 6
+Imperial Father Imperial Father 6
+Ji Ling Ji Ling 6
+Wen Chou Wen Chou 6
+The Prince of Yan The Prince of Yan 5
+Jian Xianhe Jian Xianhe 5
+Ten Constant Attendants Ten Constant Attendants 5
+Cai Yang Cai Yang 5
+Emperor Ling Emperor Ling 4
+Huangfu Song Huangfu Song 4
+the prince the prince 4
+Sun Jian Sun Jian 4
+Yuan Shu Yuan Shu 4
+Cao Bao Cao Bao 4
+Hou Cheng Hou Cheng 4
+We have We have 3
+Duan Gui Duan Gui 3
+Li Su Li Su 3
+Che Zhou Che Zhou 3
+Kuai Yue Kuai Yue 3
+The schoolteacher The schoolteacher 2
+Wu Zilan Wu Zilan 2
+Zhang Ben Zhang Ben 2
+Cai Mao Cai Mao 2
+Sun Quan Sun Quan 1
+Zhang Yi Zhang Yi 1
+The Inspector General The Inspector General 1
+The envoy The envoy 1
+Li Ru Li Ru 1
+the farmer the farmer 1
+The soldier The soldier 1
+Yang Feng Yang Feng 1
+Xu You Xu You 1
+Gong Gu Gong Gu 1
+The master The master 1
+The acolyte The acolyte 1
+Liu Cong Liu Cong 1
+Consort Gan Consort Gan 1
+Empress Lü, Empress Lü, 0
+the schoolteacher the schoolteacher 0
+Liu Deran Liu Deran 0
+The gatekeeper The gatekeeper 0
+the spies the spies 0
+The woman The woman 0
+Cui Lian Cui Lian 0
+The farmer The farmer 0
+Song Wenju Song Wenju 0
+Cheng Gong Cheng Gong 0
+Ma Teng Ma Teng 0
+One of those men One of those men 0
+Ji Xin Ji Xin 0
+August Emperor August Emperor 0
+A messenger A messenger 0
+Ladyship Gan Ladyship Gan 0
+The King of Ji The King of Ji 0
+Sima Qian Sima Qian 0
+Liu Zhang Liu Zhang 0
+Liu Feng Liu Feng 0
+Xiaohou Dun Xiaohou Dun 0
+Liu Qi Liu Qi 0
+The mountain grade The mountain grade 0

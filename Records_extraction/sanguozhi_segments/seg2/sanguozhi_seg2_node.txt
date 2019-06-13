@@ -1,0 +1,68 @@
+Id Label Weight
+Liu Bei Liu Bei 150
+Zhang Fei Zhang Fei 146
+Cao Cao Cao Cao 77
+Lü Bu Lü Bu 72
+Dong Zhuo Dong Zhuo 49
+Guan Yu Guan Yu 31
+The emperor The emperor 30
+Sima Zhongxiang Sima Zhongxiang 25
+Zhuge Liang Zhuge Liang 21
+Zhang Bao Zhang Bao 19
+Zhao Yun Zhao Yun 17
+Lü Bu, Lü Bu, 17
+Lü Bu. Lü Bu. 15
+Zhang Biao Zhang Biao 13
+the prefect the prefect 12
+Chen Gong Chen Gong 10
+The eight men The eight men 9
+Wang Yun Wang Yun 9
+Zhang Jue Zhang Jue 8
+the Prince of Yan the Prince of Yan 7
+the Prince of Ji the Prince of Ji 7
+Sima Yi Sima Yi 6
+Emperor Xian Emperor Xian 6
+The grand marshal The grand marshal 6
+Ji Ling Ji Ling 6
+Xiahou Dun Xiahou Dun 6
+The Prince of Yan The Prince of Yan 5
+Yuan Shao Yuan Shao 5
+Huangfu Song Huangfu Song 4
+Jian Xianhe Jian Xianhe 4
+Ten Constant Attendants Ten Constant Attendants 4
+Dong Cheng Dong Cheng 4
+Sun Jian Sun Jian 4
+Yuan Shu Yuan Shu 4
+Hou Cheng Hou Cheng 4
+the prince the prince 3
+Duan Gui Duan Gui 3
+Li Su Li Su 3
+Cao Bao Cao Bao 3
+Emperor Ling Emperor Ling 2
+The schoolteacher The schoolteacher 2
+We have We have 2
+Imperial Father Imperial Father 2
+The Inspector General The Inspector General 1
+Li Ru Li Ru 1
+the farmer the farmer 1
+Yang Feng Yang Feng 1
+Zhang Ben Zhang Ben 1
+Zhang Liao Zhang Liao 1
+Empress Lü, Empress Lü, 0
+Sun Quan Sun Quan 0
+the schoolteacher the schoolteacher 0
+Liu Deran Liu Deran 0
+The gatekeeper The gatekeeper 0
+Zhang Yi Zhang Yi 0
+the spies the spies 0
+The woman The woman 0
+Cui Lian Cui Lian 0
+The envoy The envoy 0
+The farmer The farmer 0
+The soldier The soldier 0
+Song Wenju Song Wenju 0
+Liu Biao Liu Biao 0
+Wu Zilan Wu Zilan 0
+Cheng Gong Cheng Gong 0
+Ma Teng Ma Teng 0
+One of those men One of those men 0

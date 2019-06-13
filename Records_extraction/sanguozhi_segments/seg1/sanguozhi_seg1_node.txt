@@ -1,0 +1,31 @@
+Id Label Weight
+Zhang Fei Zhang Fei 63
+Liu Bei Liu Bei 35
+Sima Zhongxiang Sima Zhongxiang 25
+Guan Yu Guan Yu 15
+Zhuge Liang Zhuge Liang 15
+Zhang Bao Zhang Bao 15
+Zhang Biao Zhang Biao 13
+The eight men The eight men 9
+The emperor The emperor 8
+Zhang Jue Zhang Jue 8
+the Prince of Yan the Prince of Yan 7
+Sima Yi Sima Yi 6
+Zhao Yun Zhao Yun 6
+The grand marshal The grand marshal 6
+The Prince of Yan The Prince of Yan 5
+Huangfu Song Huangfu Song 4
+The schoolteacher The schoolteacher 2
+the prince the prince 2
+Cao Cao Cao Cao 1
+Emperor Ling Emperor Ling 1
+Jian Xianhe Jian Xianhe 1
+We have We have 1
+Empress Lü, Empress Lü, 0
+Sun Quan Sun Quan 0
+Emperor Xian Emperor Xian 0
+the schoolteacher the schoolteacher 0
+Liu Deran Liu Deran 0
+The gatekeeper The gatekeeper 0
+Zhang Yi Zhang Yi 0
+the spies the spies 0

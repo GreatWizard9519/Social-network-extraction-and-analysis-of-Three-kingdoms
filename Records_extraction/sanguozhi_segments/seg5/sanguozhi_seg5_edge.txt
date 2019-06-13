@@ -1,0 +1,769 @@
+Source Target Weight
+Sima ZhongxiangSima Yi10
+The emperorEmperor Ling5
+The emperorZhuge Liang67
+The emperorZhang Fei18
+The emperorLiu Bei62
+The emperorDong Cheng12
+The emperorTen Constant Attendants6
+The emperorImperial Father10
+The emperorthe prefect6
+The emperorDong Zhuo15
+The emperorZhao Yun14
+The emperorEmperor Xian13
+The emperorCao Cao69
+The emperorWang Yun4
+The emperorthe Prince of Ji10
+The emperorLü Bu5
+The emperorGuan Yu10
+The emperorthe Prince of Jing6
+The emperorMa Teng7
+The emperorMa Chao6
+The emperorDownriver Wu7
+The emperorLiu Zhang4
+The emperorZhang Song4
+The emperorAugust Emperor4
+The emperorMeng Huo4
+The emperorLiu Shan12
+The emperorXiong Kai4
+The emperorYi Ji4
+The emperorSima Yi12
+Sun QuanEmperor Xian4
+Sun QuanGuan Yu5
+Sun QuanZhuge Liang28
+Sun QuanZhang Fei6
+Sun QuanCao Cao33
+Sun QuanLiu Bei40
+Sun QuanZhao Yun4
+Sun QuanLu Su9
+Sun QuanZhang Zhao4
+Sun QuanZhou Yu10
+Emperor XianSun Quan4
+Emperor XianSima Yi5
+Emperor XianZhuge Liang10
+Emperor XianCao Cao30
+Emperor XianLiu Bei15
+Emperor XianDong Zhuo9
+Emperor XianThe emperor13
+Guan YuSun Quan5
+Guan YuZhuge Liang53
+Guan YuZhang Fei98
+Guan YuCao Cao101
+Guan YuLiu Bei132
+Guan YuZhao Yun44
+Guan YuZhang Biao4
+Guan YuZhang Bao4
+Guan Yuthe Prince of Ji15
+Guan YuYuan Shao12
+Guan YuLü Bu11
+Guan YuLü Bu,4
+Guan YuXiahou Dun10
+Guan YuZhang Liao7
+Guan YuThe emperor10
+Guan YuAugust Emperor4
+Guan YuWen Chou6
+Guan Yuthe Prince of Jing5
+Guan YuCai Yang6
+Guan YuHuang Zhong6
+Guan YuMa Chao5
+Guan YuLü Meng4
+Guan YuDownriver Wu5
+Guan YuLiu Feng5
+Cao CaoSun Quan33
+Cao CaoSima Yi17
+Cao CaoEmperor Xian30
+Cao CaoGuan Yu101
+Cao CaoZhuge Liang194
+Cao CaoZhang Fei205
+Cao CaoLiu Bei347
+Cao CaoDong Zhuo28
+Cao CaoZhao Yun61
+Cao CaoEmperor Ling4
+Cao CaoThe emperor69
+Cao Caothe farmer4
+Cao CaoLü Bu56
+Cao CaoLü Bu,16
+Cao CaoLü Bu.13
+Cao Caothe prefect18
+Cao CaoSun Jian4
+Cao CaoThe soldier7
+Cao CaoYuan Shao26
+Cao Caothe Prince of Ji36
+Cao CaoCao Bao7
+Cao CaoZhang Bao10
+Cao CaoLiu Biao8
+Cao Caothe prince4
+Cao CaoChen Gong17
+Cao CaoXiahou Dun68
+Cao CaoHou Cheng7
+Cao CaoZhang Liao27
+Cao CaoDong Cheng7
+Cao CaoImperial Father5
+Cao CaoJi Ping18
+Cao CaoAugust Emperor5
+Cao CaoXu You4
+Cao CaoWen Chou7
+Cao CaoCai Yang6
+Cao Caothe Prince of Jing17
+Cao CaoKuai Yue17
+Cao CaoCai Mao11
+Cao CaoThe master8
+Cao CaoXu Shu12
+Cao CaoLiu Cong14
+Cao CaoLiu Qi4
+Cao CaoConsort Gan4
+Cao CaoDownriver Wu7
+Cao CaoLu Su25
+Cao CaoZhang Zhao10
+Cao CaoWu Fan10
+Cao CaoZhou Yu62
+Cao CaoHuang Gai25
+Cao CaoJiang Gan13
+Cao CaoThe grand marshal5
+Cao CaoJia Xu6
+Cao Caothe young lady6
+Cao CaoMa Teng9
+Cao CaoMa Chao47
+Cao CaoMa Da4
+Cao CaoZhang Lu13
+Cao CaoLiu Zhang11
+Cao CaoZhang Song10
+Cao CaoYang Xiu8
+Cao CaoQin Fu4
+Cao CaoWei Yan9
+Cao CaoHuang Zhong13
+Cao CaoYan Yan4
+Cao CaoYi Ji6
+Cao CaoLiu Feng7
+Cao CaoChen Deng4
+Liu BeiSun Quan40
+Liu BeiSima Yi15
+Liu BeiEmperor Xian15
+Liu BeiGuan Yu132
+Liu BeiZhuge Liang273
+Liu BeiZhang Fei265
+Liu BeiCao Cao347
+Liu BeiZhang Yi6
+Liu BeiZhao Yun124
+Liu BeiJian Xianhe12
+Liu BeiThe grand marshal15
+Liu BeiZhang Biao11
+Liu BeiZhang Bao14
+Liu BeiThe emperor62
+Liu BeiTen Constant Attendants10
+Liu BeiDuan Gui4
+Liu BeiDong Cheng12
+Liu Beithe prefect30
+Liu BeiImperial Father8
+Liu BeiDong Zhuo35
+Liu BeiLü Bu75
+Liu BeiLü Bu,19
+Liu BeiLü Bu.13
+Liu BeiSun Jian7
+Liu BeiYuan Shao27
+Liu Beithe Prince of Ji66
+Liu BeiLiu Biao23
+Liu Beithe prince7
+Liu BeiChen Gong10
+Liu BeiYuan Shu12
+Liu BeiJi Ling15
+Liu BeiCao Bao4
+Liu BeiHou Cheng5
+Liu BeiZhang Liao10
+Liu BeiEmperor Ling9
+Liu Beithe Prince of Jing40
+Liu BeiWu Zilan6
+Liu BeiJi Ping6
+Liu BeiChe Zhou5
+Liu BeiAugust Emperor9
+Liu BeiWen Chou9
+Liu BeiGong Gu6
+Liu BeiKuai Yue13
+Liu BeiCai Mao10
+Liu BeiXu Shu22
+Liu BeiThe acolyte5
+Liu BeiLiu Zhang22
+Liu BeiXiahou Dun10
+Liu BeiLiu Feng10
+Liu BeiLiu Cong13
+Liu BeiLiu Qi5
+Liu BeiDownriver Wu11
+Liu BeiLu Su32
+Liu BeiZhou Yu50
+Liu Beithe troops of Wu6
+Liu Beithe young lady13
+Liu BeiThe young lady5
+Liu BeiPang Tong20
+Liu BeiWei Yan9
+Liu BeiHuang Zhong9
+Liu BeiMa Chao13
+Liu BeiZhang Lu8
+Liu BeiZhang Song13
+Liu BeiQin Fu9
+Liu BeiYan Yan6
+Liu BeiLiu Shan19
+Liu BeiMeng Da4
+Liu BeiMeng Huo11
+Liu BeiLü Meng6
+Liu BeiXiong Kai4
+Zhuge LiangSun Quan28
+Zhuge LiangSima Yi84
+Zhuge LiangEmperor Xian10
+Zhuge LiangGuan Yu53
+Zhuge LiangZhang Fei150
+Zhuge LiangCao Cao194
+Zhuge LiangLiu Bei273
+Zhuge LiangThe emperor67
+Zhuge LiangThe grand marshal15
+Zhuge LiangZhang Biao5
+Zhuge LiangZhang Bao9
+Zhuge LiangTen Constant Attendants4
+Zhuge LiangXu Shu11
+Zhuge Liangthe prefect17
+Zhuge LiangZhao Yun90
+Zhuge LiangLiu Zhang18
+Zhuge LiangXiahou Dun30
+Zhuge LiangLiu Feng11
+Zhuge Liangthe Prince of Ji14
+Zhuge LiangLiu Cong9
+Zhuge Liangthe Prince of Jing14
+Zhuge LiangLiu Qi5
+Zhuge LiangDownriver Wu11
+Zhuge LiangLu Su38
+Zhuge LiangZhou Yu58
+Zhuge LiangHuang Gai4
+Zhuge LiangLittle Qiao4
+Zhuge LiangJiang Gan4
+Zhuge LiangMei Zhu4
+Zhuge Liangthe young lady8
+Zhuge LiangPang Tong30
+Zhuge LiangZhao Fan4
+Zhuge LiangWei Yan39
+Zhuge LiangJin Zu9
+Zhuge LiangHuang Zhong29
+Zhuge LiangWe have4
+Zhuge LiangMa Chao25
+Zhuge LiangZhang Song6
+Zhuge LiangZhang Lu8
+Zhuge LiangYan Yan6
+Zhuge LiangZhang Sheng5
+Zhuge LiangZhang Yi12
+Zhuge LiangYi Ji19
+Zhuge LiangLü Meng12
+Zhuge LiangSun Liang4
+Zhuge LiangZhang Liao6
+Zhuge LiangLiu Shan26
+Zhuge LiangGuan Ping7
+Zhuge LiangAugust Emperor4
+Zhuge LiangMeng Huo14
+Zhuge LiangXiong Kai10
+Zhuge LiangLü Kai12
+Zhuge LiangThe king13
+Zhuge LiangMeng Da4
+Zhuge LiangJiang Wei29
+Zhuge LiangHuang Hao5
+Zhuge LiangYang Yi9
+Zhuge LiangZhang He5
+Zhuge LiangZhou Cang7
+Zhang FeiSun Quan6
+Zhang FeiSima Yi6
+Zhang FeiGuan Yu98
+Zhang FeiZhuge Liang150
+Zhang FeiCao Cao205
+Zhang FeiLiu Bei265
+Zhang Feithe prince9
+Zhang Feithe Prince of Yan5
+Zhang FeiZhang Yi6
+Zhang FeiZhao Yun76
+Zhang FeiJian Xianhe5
+Zhang FeiThe grand marshal4
+Zhang FeiZhang Biao20
+Zhang FeiThe emperor18
+Zhang FeiZhang Bao24
+Zhang FeiWe have4
+Zhang FeiDuan Gui6
+Zhang Feithe prefect14
+Zhang FeiDong Zhuo12
+Zhang FeiLü Bu54
+Zhang FeiLü Bu.21
+Zhang FeiSun Jian6
+Zhang FeiThe soldier4
+Zhang Feithe Prince of Ji7
+Zhang FeiYuan Shao6
+Zhang FeiYuan Shu4
+Zhang FeiJi Ling8
+Zhang FeiCao Bao4
+Zhang FeiZhang Ben4
+Zhang FeiLü Bu,12
+Zhang FeiChen Gong4
+Zhang FeiXiahou Dun28
+Zhang FeiZhang Liao10
+Zhang FeiCai Yang6
+Zhang FeiXu Shu4
+Zhang Feithe troops of Wu4
+Zhang FeiZhou Yu20
+Zhang FeiLu Su6
+Zhang Feithe young lady6
+Zhang FeiPang Tong16
+Zhang FeiLiu Feng6
+Zhang FeiHuang Zhong20
+Zhang FeiWei Yan10
+Zhang FeiMa Chao14
+Zhang FeiYan Yan10
+Zhang FeiMa Shouzhong4
+Zhang FeiLü Meng4
+Zhang FeiYu Xu4
+Zhang FeiWang Qiang4
+Emperor LingThe emperor5
+Emperor LingCao Cao4
+Emperor LingLiu Bei9
+the princeZhang Fei9
+the princeLiu Bei7
+the princeCao Cao4
+the Prince of YanZhang Fei5
+Zhang YiLiu Bei6
+Zhang YiZhang Fei6
+Zhang YiZhuge Liang12
+Jian XianheLiu Bei12
+Jian XianheZhang Fei5
+The grand marshalZhuge Liang15
+The grand marshalLiu Bei15
+The grand marshalZhang Fei4
+The grand marshalCao Cao5
+The grand marshalZhou Yu4
+Zhang BaoZhang Biao14
+Zhang BaoZhuge Liang9
+Zhang BaoLiu Bei14
+Zhang BaoZhang Fei24
+Zhang BaoWe have4
+Zhang BaoGuan Yu4
+Zhang BaoCao Bao5
+Zhang BaoLü Bu4
+Zhang BaoCao Cao10
+Zhang BiaoZhang Bao14
+Zhang BiaoZhuge Liang5
+Zhang BiaoLiu Bei11
+Zhang BiaoZhang Fei20
+Zhang BiaoGuan Yu4
+We haveZhang Bao4
+We haveZhang Fei4
+We haveZhuge Liang4
+Ten Constant AttendantsZhuge Liang4
+Ten Constant AttendantsLiu Bei10
+Ten Constant AttendantsThe emperor6
+Duan GuiLiu Bei4
+Duan GuiZhang Fei6
+Dong ChengLiu Bei12
+Dong ChengThe emperor12
+Dong ChengImperial Father7
+Dong ChengCao Cao7
+the prefectLiu Bei30
+the prefectZhang Fei14
+the prefectThe emperor6
+the prefectDong Zhuo4
+the prefectCao Cao18
+the prefectthe Prince of Ji4
+the prefectLü Bu4
+the prefectZhuge Liang17
+Imperial FatherDong Cheng7
+Imperial FatherThe emperor10
+Imperial FatherLiu Bei8
+Imperial FatherCao Cao5
+Dong ZhuoLü Bu28
+Dong ZhuoZhao Yun16
+Dong ZhuoEmperor Xian9
+Dong ZhuoCao Cao28
+Dong ZhuoThe emperor15
+Dong ZhuoWang Yun16
+Dong ZhuoLü Bu,14
+Dong ZhuoLü Bu.6
+Dong ZhuoLi Su7
+Dong Zhuothe Prince of Ji4
+Dong ZhuoSun Jian5
+Dong ZhuoYuan Shao4
+Dong ZhuoLiu Bei35
+Dong ZhuoZhang Fei12
+Dong Zhuothe prefect4
+Lü BuDong Zhuo28
+Lü BuLü Bu,19
+Lü BuLü Bu.17
+Lü BuLi Su4
+Lü BuLiu Bei75
+Lü BuCao Cao56
+Lü BuZhang Fei54
+Lü BuThe emperor5
+Lü Buthe prefect4
+Lü BuCao Bao4
+Lü BuZhang Bao4
+Lü BuGuan Yu11
+Lü BuZhao Yun6
+Lü BuWang Yun5
+Lü BuChen Gong9
+Lü BuJi Ling6
+Lü BuXiahou Dun7
+Wang YunDong Zhuo16
+Wang YunZhao Yun10
+Wang YunThe emperor4
+Wang YunLü Bu5
+Lü Bu,Dong Zhuo14
+Lü Bu,Lü Bu19
+Lü Bu,Lü Bu.4
+Lü Bu,Li Su4
+Lü Bu,Liu Bei19
+Lü Bu,Cao Cao16
+Lü Bu,Guan Yu4
+Lü Bu,Zhang Fei12
+Lü Bu.Dong Zhuo6
+Lü Bu.Lü Bu17
+Lü Bu.Lü Bu,4
+Lü Bu.Zhang Fei21
+Lü Bu.Cao Cao13
+Lü Bu.Liu Bei13
+Li SuDong Zhuo7
+Li SuLü Bu4
+Li SuLü Bu,4
+the Prince of JiDong Zhuo4
+the Prince of JiYuan Shao12
+the Prince of JiThe emperor10
+the Prince of JiLiu Bei66
+the Prince of JiCao Cao36
+the Prince of JiGuan Yu15
+the Prince of JiZhao Yun13
+the Prince of JiZhang Fei7
+the Prince of Jithe prefect4
+the Prince of JiLiu Biao9
+the Prince of Jithe Prince of Jing20
+the Prince of JiZhuge Liang14
+the Prince of JiLiu Cong5
+the Prince of JiDownriver Wu4
+the Prince of JiZhou Yu7
+the Prince of Jithe young lady4
+Sun JianDong Zhuo5
+Sun JianLiu Bei7
+Sun JianZhang Fei6
+Sun JianCao Cao4
+Yuan Shaothe Prince of Ji12
+Yuan ShaoDong Zhuo4
+Yuan ShaoLiu Bei27
+Yuan ShaoCao Cao26
+Yuan ShaoZhang Fei6
+Yuan ShaoGuan Yu12
+Yuan ShaoZhao Yun10
+Yuan ShaoXiahou Dun6
+Yuan ShuLiu Bei12
+Yuan ShuZhang Fei4
+the farmerCao Cao4
+The soldierZhang Fei4
+The soldierCao Cao7
+Cao BaoZhang Bao5
+Cao BaoLü Bu4
+Cao BaoCao Cao7
+Cao BaoZhang Fei4
+Cao BaoLiu Bei4
+Liu Biaothe Prince of Ji9
+Liu BiaoLiu Bei23
+Liu BiaoCao Cao8
+Liu Biaothe Prince of Jing6
+Liu BiaoZhao Yun5
+Wu ZilanLiu Bei6
+Chen GongLiu Bei10
+Chen GongLü Bu9
+Chen GongCao Cao17
+Chen GongZhang Fei4
+Ji LingLiu Bei15
+Ji LingZhang Fei8
+Ji LingLü Bu6
+Zhang BenZhang Fei4
+Hou ChengLiu Bei5
+Hou ChengCao Cao7
+Xiahou DunLü Bu7
+Xiahou DunZhang Fei28
+Xiahou DunCao Cao68
+Xiahou DunGuan Yu10
+Xiahou DunYuan Shao6
+Xiahou DunZhang Liao4
+Xiahou DunZhuge Liang30
+Xiahou DunZhao Yun12
+Xiahou DunLiu Bei10
+Xiahou DunLiu Feng4
+Xiahou DunJia Xu4
+Xiahou DunHuang Zhong5
+Xiahou DunSima Yi4
+Ma TengCao Cao9
+Ma TengThe emperor7
+Zhang LiaoCao Cao27
+Zhang LiaoLiu Bei10
+Zhang LiaoGuan Yu7
+Zhang LiaoZhang Fei10
+Zhang LiaoXiahou Dun4
+Zhang LiaoZhuge Liang6
+the Prince of Jingthe Prince of Ji20
+the Prince of JingLiu Bei40
+the Prince of JingThe emperor6
+the Prince of JingLiu Biao6
+the Prince of JingGuan Yu5
+the Prince of JingZhao Yun5
+the Prince of JingCao Cao17
+the Prince of JingZhuge Liang14
+the Prince of JingLiu Cong5
+the Prince of JingDownriver Wu4
+the Prince of JingZhou Yu7
+the Prince of Jingthe young lady4
+Ji PingCao Cao18
+Ji PingLiu Bei6
+Che ZhouLiu Bei5
+August EmperorLiu Bei9
+August EmperorGuan Yu4
+August EmperorCao Cao5
+August EmperorZhuge Liang4
+August EmperorThe emperor4
+Zhao YunGuan Yu44
+Zhao YunLiu Bei124
+Zhao YunZhang Fei76
+Zhao YunDong Zhuo16
+Zhao YunCao Cao61
+Zhao YunThe emperor14
+Zhao YunWang Yun10
+Zhao Yunthe Prince of Ji13
+Zhao YunLü Bu6
+Zhao YunYuan Shao10
+Zhao YunWen Chou4
+Zhao YunLiu Biao5
+Zhao Yunthe Prince of Jing5
+Zhao YunXu Shu4
+Zhao YunZhuge Liang90
+Zhao YunXiahou Dun12
+Zhao YunLiu Feng5
+Zhao YunConsort Gan4
+Zhao YunSun Quan4
+Zhao YunLu Su6
+Zhao YunZhou Yu6
+Zhao YunZhao Fan4
+Zhao YunPang Tong5
+Zhao YunHuang Zhong11
+Zhao YunWei Yan6
+Zhao YunMa Chao8
+Zhao YunMeng Huo4
+Xu YouCao Cao4
+Wen ChouCao Cao7
+Wen ChouGuan Yu6
+Wen ChouLiu Bei9
+Wen ChouZhao Yun4
+Gong GuLiu Bei6
+Cai YangGuan Yu6
+Cai YangZhang Fei6
+Cai YangCao Cao6
+Kuai YueLiu Bei13
+Kuai YueCai Mao6
+Kuai YueCao Cao17
+Cai MaoLiu Bei10
+Cai MaoKuai Yue6
+Cai MaoCao Cao11
+Xu ShuZhang Fei4
+Xu ShuLiu Bei22
+Xu ShuZhao Yun4
+Xu ShuCao Cao12
+Xu ShuZhuge Liang11
+The masterCao Cao8
+The acolyteLiu Bei5
+Liu ZhangLiu Bei22
+Liu ZhangZhuge Liang18
+Liu ZhangMa Chao5
+Liu ZhangZhang Lu5
+Liu ZhangCao Cao11
+Liu ZhangThe emperor4
+Liu ZhangZhang Song7
+Liu ZhangQin Fu5
+Liu ZhangPang Tong6
+Liu FengZhuge Liang11
+Liu FengZhao Yun5
+Liu FengXiahou Dun4
+Liu FengLiu Bei10
+Liu FengZhang Fei6
+Liu FengCao Cao7
+Liu FengGuan Yu5
+Liu Congthe Prince of Ji5
+Liu CongZhuge Liang9
+Liu CongCao Cao14
+Liu Congthe Prince of Jing5
+Liu CongLiu Bei13
+Liu QiLiu Bei5
+Liu QiZhuge Liang5
+Liu QiCao Cao4
+Consort GanZhao Yun4
+Consort GanCao Cao4
+Downriver Wuthe Prince of Ji4
+Downriver WuZhuge Liang11
+Downriver WuCao Cao7
+Downriver WuLiu Bei11
+Downriver Wuthe Prince of Jing4
+Downriver WuThe emperor7
+Downriver WuGuan Yu5
+Lu SuZhuge Liang38
+Lu SuCao Cao25
+Lu SuLiu Bei32
+Lu SuSun Quan9
+Lu SuZhao Yun6
+Lu SuZhou Yu18
+Lu SuZhang Fei6
+Zhang ZhaoSun Quan4
+Zhang ZhaoWu Fan4
+Zhang ZhaoCao Cao10
+Wu FanZhang Zhao4
+Wu FanCao Cao10
+Zhou YuSun Quan10
+Zhou YuCao Cao62
+Zhou YuZhuge Liang58
+Zhou YuLu Su18
+Zhou YuHuang Gai7
+Zhou YuLiu Bei50
+Zhou YuThe grand marshal4
+Zhou YuZhang Fei20
+Zhou Yuthe Prince of Ji7
+Zhou Yuthe Prince of Jing7
+Zhou YuZhao Yun6
+Zhou Yuthe young lady6
+Huang GaiCao Cao25
+Huang GaiZhuge Liang4
+Huang GaiZhou Yu7
+Little QiaoZhuge Liang4
+Jiang GanCao Cao13
+Jiang GanZhuge Liang4
+the troops of WuLiu Bei6
+the troops of WuZhang Fei4
+Mei ZhuZhuge Liang4
+Zhao FanZhuge Liang4
+Zhao FanZhao Yun4
+Jia XuXiahou Dun4
+Jia XuCao Cao6
+the young ladyZhang Fei6
+the young ladyZhou Yu6
+the young ladyZhuge Liang8
+the young ladyCao Cao6
+the young ladyLiu Bei13
+the young ladyThe young lady4
+the young ladythe Prince of Ji4
+the young ladythe Prince of Jing4
+The young ladythe young lady4
+The young ladyLiu Bei5
+Pang TongZhuge Liang30
+Pang TongLiu Bei20
+Pang TongZhang Fei16
+Pang TongZhao Yun5
+Pang TongWei Yan8
+Pang TongHuang Zhong8
+Pang TongLiu Zhang6
+Wei YanLiu Bei9
+Wei YanZhuge Liang39
+Wei YanPang Tong8
+Wei YanZhao Yun6
+Wei YanHuang Zhong7
+Wei YanZhang Fei10
+Wei YanCao Cao9
+Wei YanJiang Wei7
+Wei YanSima Yi4
+Jin ZuHuang Zhong4
+Jin ZuZhuge Liang9
+Huang ZhongGuan Yu6
+Huang ZhongZhao Yun11
+Huang ZhongJin Zu4
+Huang ZhongZhuge Liang29
+Huang ZhongZhang Fei20
+Huang ZhongWei Yan7
+Huang ZhongPang Tong8
+Huang ZhongLiu Bei9
+Huang ZhongCao Cao13
+Huang ZhongMa Shouzhong4
+Huang ZhongMa Chao7
+Huang ZhongXiahou Dun5
+Ma DaCao Cao4
+Ma ChaoGuan Yu5
+Ma ChaoZhuge Liang25
+Ma ChaoZhang Fei14
+Ma ChaoCao Cao47
+Ma ChaoThe emperor6
+Ma ChaoZhang Lu9
+Ma ChaoLiu Zhang5
+Ma ChaoLiu Bei13
+Ma ChaoZhang Song4
+Ma ChaoZhao Yun8
+Ma ChaoHuang Zhong7
+Zhang LuCao Cao13
+Zhang LuMa Chao9
+Zhang LuLiu Zhang5
+Zhang LuLiu Bei8
+Zhang LuZhang Song4
+Zhang LuZhuge Liang8
+Zhang SongCao Cao10
+Zhang SongLiu Zhang7
+Zhang SongMa Chao4
+Zhang SongLiu Bei13
+Zhang SongZhang Lu4
+Zhang SongThe emperor4
+Zhang SongZhuge Liang6
+Yang XiuCao Cao8
+Qin FuLiu Bei9
+Qin FuCao Cao4
+Qin FuLiu Zhang5
+Yan YanZhuge Liang6
+Yan YanLiu Bei6
+Yan YanCao Cao4
+Yan YanZhang Fei10
+Zhang ShengZhuge Liang5
+Zhang ShengSima Yi4
+Yi JiZhuge Liang19
+Yi JiCao Cao6
+Yi JiThe emperor4
+Ma ShouzhongHuang Zhong4
+Ma ShouzhongZhang Fei4
+Lü MengZhuge Liang12
+Lü MengGuan Yu4
+Lü MengZhang Fei4
+Lü MengLiu Bei6
+Sun LiangZhuge Liang4
+Yu XuZhang Fei4
+Liu ShanZhuge Liang26
+Liu ShanLiu Bei19
+Liu ShanThe emperor12
+Meng DaLiu Bei4
+Meng DaZhuge Liang4
+Meng DaSima Yi4
+Chen DengCao Cao4
+Guan PingZhuge Liang7
+Meng HuoZhao Yun4
+Meng HuoZhuge Liang14
+Meng HuoThe emperor4
+Meng HuoLiu Bei11
+Wang QiangZhang Fei4
+Xiong KaiZhuge Liang10
+Xiong KaiLiu Bei4
+Xiong KaiThe emperor4
+Lü KaiZhuge Liang12
+The kingZhuge Liang13
+Sima YiSima Zhongxiang10
+Sima YiEmperor Xian5
+Sima YiZhuge Liang84
+Sima YiZhang Fei6
+Sima YiCao Cao17
+Sima YiLiu Bei15
+Sima YiMeng Da4
+Sima YiZhang Sheng4
+Sima YiZhang He7
+Sima YiXiahou Dun4
+Sima YiThe emperor12
+Sima YiYang Yi11
+Sima YiJiang Wei11
+Sima YiWei Yan4
+Sima YiZhou Cang4
+Jiang WeiZhuge Liang29
+Jiang WeiWei Yan7
+Jiang WeiSima Yi11
+Jiang WeiYang Yi5
+Huang HaoZhuge Liang5
+Zhang HeSima Yi7
+Zhang HeZhuge Liang5
+Yang YiSima Yi11
+Yang YiZhuge Liang9
+Yang YiJiang Wei5
+Zhou CangSima Yi4
+Zhou CangZhuge Liang7
